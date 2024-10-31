@@ -1,0 +1,429 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SearchResultsOptimizer\n"
+"POT-Creation-Date: 2014-03-08 17:12-0000\n"
+"PO-Revision-Date: 2014-03-08 17:13-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/abstracts/sro-admin-settings.php:226
+#: ../templates/searchform.php:31
+msgid "Tags"
+msgstr ""
+
+#: ../includes/abstracts/sro-admin-settings.php:227
+msgid "Allow filtering by tags"
+msgstr ""
+
+#: ../includes/abstracts/sro-admin-settings.php:234
+#: ../templates/searchform.php:50
+msgid "Categories"
+msgstr ""
+
+#: ../includes/abstracts/sro-admin-settings.php:235
+msgid "Allow filtering by categories"
+msgstr ""
+
+#: ../includes/abstracts/sro-admin-settings.php:242
+#: ../templates/searchform.php:19
+msgid "Types"
+msgstr ""
+
+#: ../includes/abstracts/sro-admin-settings.php:243
+msgid "Allow filtering by post types"
+msgstr ""
+
+#: ../includes/abstracts/sro-base.php:244
+#: ../includes/abstracts/sro-base.php:247
+#: ../includes/abstracts/sro-base.php:289
+msgid "not"
+msgstr ""
+
+#: ../includes/abstracts/sro-base.php:244
+#: ../includes/abstracts/sro-base.php:247
+msgid "updated"
+msgstr ""
+
+#: ../includes/abstracts/sro-base.php:289
+msgid "deleted"
+msgstr ""
+
+#: ../includes/abstracts/sro-list-table.php:113
+#: ../includes/admin/sro-admin-searches-table.php:235
+msgid "Edit"
+msgstr ""
+
+#: ../includes/abstracts/sro-list-table.php:114
+#: ../includes/admin/sro-admin-searches-table.php:133
+#: ../includes/admin/sro-admin-searches-table.php:237
+#: ../includes/admin/sro-admin-themes-table.php:154
+msgid "Delete"
+msgstr ""
+
+#: ../includes/abstracts/wp-list-table.php:194
+msgid "No items found."
+msgstr ""
+
+#: ../includes/abstracts/wp-list-table.php:318
+msgid "Bulk Actions"
+msgstr ""
+
+#: ../includes/abstracts/wp-list-table.php:328
+msgid "Apply"
+msgstr ""
+
+#: ../includes/abstracts/wp-list-table.php:412
+msgid "Show all dates"
+msgstr ""
+
+#: ../includes/abstracts/wp-list-table.php:425
+#, php-format
+msgid "%1$s %2$d"
+msgstr ""
+
+#: ../includes/abstracts/wp-list-table.php:441
+msgid "List View"
+msgstr ""
+
+#: ../includes/abstracts/wp-list-table.php:442
+msgid "Excerpt View"
+msgstr ""
+
+#: ../includes/abstracts/wp-list-table.php:468
+#, php-format
+msgid "%s pending"
+msgstr ""
+
+#: ../includes/abstracts/wp-list-table.php:723
+msgid "Select All"
+msgstr ""
+
+#: ../includes/admin/reports/sro-admin-reports-clicks-table.php:62
+#: ../includes/admin/reports/sro-admin-reports-latest-clicks-table.php:61
+msgid "Post"
+msgstr ""
+
+#: ../includes/admin/reports/sro-admin-reports-clicks-table.php:63
+#: ../includes/admin/views/sro-admin_search_ctr.php:2
+msgid "Clicks"
+msgstr ""
+
+#: ../includes/admin/reports/sro-admin-reports-latest-clicks-table.php:62
+#: ../includes/admin/reports/sro-admin-reports-latest-searches-table.php:62
+msgid "Time"
+msgstr ""
+
+#: ../includes/admin/reports/sro-admin-reports-latest-searches-table.php:61
+#: ../templates/searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-general.php:47
+msgid "General"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-general.php:60
+msgid "Advanced Search Form"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-general.php:61
+msgid "Enable the advanced search form"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-general.php:67
+msgid "Metadata Filters"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-general.php:73
+msgid "Searched Post Types"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-results.php:47
+msgid "Results"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-results.php:60
+msgid "Highlighting"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-results.php:65
+#: ../includes/admin/settings/sro-admin-settings-results.php:66
+msgid "Highlight search terms"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-results.php:72
+msgid "Highlight colour"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-results.php:81
+msgid "Sorting"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-results.php:86
+#: ../includes/admin/settings/sro-admin-settings-results.php:87
+msgid "Sort first five results by popularity"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-results.php:93
+msgid "Secondary sorting"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-results.php:99
+msgid "then by date created (newest to oldest)"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-results.php:100
+msgid "then by date created (oldest to newest)"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-results.php:101
+msgid "then by date last modified (newest to oldest)"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-results.php:102
+msgid "then by date last modified (oldest to newest)"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-results.php:103
+msgid "then by title"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-results.php:108
+msgid "Result Pinning"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-results.php:109
+msgid "Enable result pinning"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-results.php:118
+msgid "Suggest Similar Searches"
+msgstr ""
+
+#: ../includes/admin/settings/sro-admin-settings-results.php:119
+msgid "Display when current search returns no results"
+msgstr ""
+
+#: ../includes/admin/sro-admin-ajax.php:81
+msgid "Unable to link new theme to current search"
+msgstr ""
+
+#: ../includes/admin/sro-admin-ajax.php:85
+msgid "Unable to save theme, try refreshing the page and adding it again."
+msgstr ""
+
+#: ../includes/admin/sro-admin-ajax.php:107
+msgid "Unable to unlink search"
+msgstr ""
+
+#: ../includes/admin/sro-admin-menus.php:65
+#: ../includes/admin/views/sro-admin-dashboard-view.php:11
+msgid "Search Results Optimizer"
+msgstr "Search Results Optimiser"
+
+#: ../includes/admin/sro-admin-menus.php:86
+#: ../includes/admin/views/sro-admin-settings-view.php:2
+msgid "Settings"
+msgstr ""
+
+#: ../includes/admin/sro-admin-menus.php:107
+#: ../includes/admin/views/sro-admin-reports-view.php:2
+#: ../includes/admin/views/sro-admin-reports-view_lastsearch.php:2
+msgid "Reports"
+msgstr ""
+
+#: ../includes/admin/sro-admin-menus.php:128
+msgid "Themes"
+msgstr ""
+
+#: ../includes/admin/sro-admin-menus.php:149
+#: ../includes/admin/views/sro-admin-searches-edit.php:2
+#: ../includes/admin/views/sro-admin-searches-view.php:2
+msgid "Searches"
+msgstr ""
+
+#: ../includes/admin/sro-admin-reports.php:61
+msgid "The last search was for"
+msgstr ""
+
+#: ../includes/admin/sro-admin-reports.php:61
+msgid "and resulted in"
+msgstr ""
+
+#: ../includes/admin/sro-admin-reports.php:61
+msgid "clicks"
+msgstr ""
+
+#: ../includes/admin/sro-admin-searches-table.php:71
+#: ../includes/admin/sro-admin-themes-table.php:62
+msgid "ID"
+msgstr ""
+
+#: ../includes/admin/sro-admin-searches-table.php:72
+msgid "Search Phrase"
+msgstr ""
+
+#: ../includes/admin/sro-admin-searches-table.php:73
+#: ../includes/admin/views/sro-admin-themes-edit.php:2
+#: ../includes/admin/views/sro-admin-themes-view.php:2
+msgid "Search Themes"
+msgstr ""
+
+#: ../includes/admin/sro-admin-searches-table.php:74
+msgid "Pinned Post"
+msgstr ""
+
+#: ../includes/admin/sro-admin-searches-table.php:75
+msgid "Normalized"
+msgstr "Normalised"
+
+#: ../includes/admin/sro-admin-searches-table.php:76
+msgid "Times Searched"
+msgstr ""
+
+#: ../includes/admin/sro-admin-searches-table.php:189
+msgid "Add a theme"
+msgstr ""
+
+#: ../includes/admin/sro-admin-searches-table.php:190
+msgid "Add another theme"
+msgstr ""
+
+#: ../includes/admin/sro-admin-searches-table.php:236
+msgid "Similar Searches"
+msgstr ""
+
+#: ../includes/admin/sro-admin-searches.php:119
+msgid "Showing similar searches, to view all searches click "
+msgstr ""
+
+#: ../includes/admin/sro-admin-searches.php:119
+msgid "here"
+msgstr ""
+
+#: ../includes/admin/sro-admin-searches.php:122
+msgid ""
+"Similar searches are grouped by default and when adding a theme they will "
+"also be highlighted."
+msgstr ""
+
+#: ../includes/admin/sro-admin-searches.php:157
+#: ../includes/admin/sro-admin-themes.php:111
+#: ../includes/admin/views/sro-admin-searches-view.php:9
+msgid "search"
+msgstr ""
+
+#: ../includes/admin/sro-admin-themes-table.php:63
+msgid "Search Theme"
+msgstr ""
+
+#: ../includes/admin/sro-admin-themes-table.php:64
+msgid "Linked Searches"
+msgstr ""
+
+#: ../includes/admin/sro-admin-themes.php:159
+msgid "theme"
+msgstr ""
+
+#: ../includes/admin/views/sro-admin-dashboard-view.php:21
+msgid "Latest Searches"
+msgstr ""
+
+#: ../includes/admin/views/sro-admin-dashboard-view.php:29
+msgid "Latest Results Clicked"
+msgstr ""
+
+#: ../includes/admin/views/sro-admin-reports-view.php:4
+msgid "Last 7 Days Most Popular Results"
+msgstr ""
+
+#: ../includes/admin/views/sro-admin-searches-edit.php:13
+#: ../includes/admin/views/sro-admin-themes-edit.php:14
+msgid "Most popular results"
+msgstr ""
+
+#: ../includes/admin/views/sro-admin-searches-edit.php:23
+msgid "Associated Themes"
+msgstr ""
+
+#: ../includes/admin/views/sro-admin-searches-edit.php:38
+msgid "Add"
+msgstr ""
+
+#: ../includes/admin/views/sro-admin-searches-edit.php:46
+msgid "Delete Search"
+msgstr ""
+
+#: ../includes/admin/views/sro-admin-settings-view.php:7
+msgid "Save Changes"
+msgstr ""
+
+#: ../includes/admin/views/sro-admin-themes-edit.php:24
+msgid "Tagged Searches"
+msgstr ""
+
+#: ../includes/admin/views/sro-admin-themes-edit.php:34
+msgid "Tag searches from the"
+msgstr ""
+
+#: ../includes/admin/views/sro-admin-themes-edit.php:34
+msgid "searches page"
+msgstr ""
+
+#: ../includes/admin/views/sro-admin-themes-edit.php:41
+msgid "Delete Theme"
+msgstr ""
+
+#: ../includes/admin/views/sro-admin_nosearches.php:11
+msgid "There are no popular results for this"
+msgstr ""
+
+#: ../includes/admin/views/sro-admin_search.php:2
+msgid "Last modified"
+msgstr ""
+
+#: ../includes/admin/views/sro-admin_search_ctr.php:1
+msgid "Views"
+msgstr ""
+
+#: ../includes/admin/views/sro-admin_search_ctr.php:3
+msgid "Clickthrough rate"
+msgstr ""
+
+#: ../includes/admin/views/sro-admin_search_pin.php:3
+#: ../includes/admin/views/sro-admin_search_pin.php:5
+msgid "Pin this result"
+msgstr ""
+
+#: ../includes/admin/views/sro-admin_search_pin.php:3
+#: ../includes/admin/views/sro-admin_search_pin.php:5
+msgid "Unpin this result"
+msgstr ""
+
+#: ../includes/admin/views/sro-admin_search_position.php:2
+msgid "This result was clicked whilst in position "
+msgstr ""
+
+#: ../includes/admin/views/sro-admin_search_position.php:4
+msgid "This result was not clicked"
+msgstr ""
+
+#: ../templates/searchform.php:4 ../templates/searchform.php:11
+msgid "Search for"
+msgstr ""
+
+#: ../templates/searchform.php:42
+msgid "with all of these tags?"
+msgstr ""
+
+#: ../templates/searchform.php:61
+msgid "with all of these categories?"
+msgstr ""
